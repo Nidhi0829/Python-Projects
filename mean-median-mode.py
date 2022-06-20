@@ -26,3 +26,4 @@ if len(list1) % 2 == 0:
 else:
     median = list1[len(list1)//2]
 print(median)
+
